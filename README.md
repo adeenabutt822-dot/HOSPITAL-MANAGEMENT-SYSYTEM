@@ -26,3 +26,6 @@ using file handling.
 This project is developed as a group project of two members.
 
 - Medical Module Repository:
+##Individual repositories :
+Medical Module :
+https://github.com/adeenabutt822-dot/HOSPITAL-MANAGEMENT-SYSYTEM.git
