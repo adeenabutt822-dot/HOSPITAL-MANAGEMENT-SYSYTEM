@@ -25,4 +25,8 @@ This repository contains the Medical part of the system.
 
 ## Author
 [Adeena Butt
-(25011519_048)]
+(25011519_048)] 
+## Group Project Information
+This project is developed as a group project of two members.
+
+- Medical Module Repository:
