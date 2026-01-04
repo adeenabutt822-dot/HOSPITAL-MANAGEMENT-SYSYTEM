@@ -19,10 +19,6 @@ using file handling.
 2. Run the executable
 3. Select Medical options from the menu
 
-## Group Project
-This project is developed as a group project.
-This repository contains the Medical part of the system.
-
 ## Author
 [Adeena Butt
 (25011519_048)] 
