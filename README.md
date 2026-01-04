@@ -1,2 +1,28 @@
-# HOSPITAL-MANAGEMENT-SYSYTEM
-MEDICAL PART
+# Hospital Management System – Medical Module
+
+## Description
+This project is part of a Hospital Management System written in C++.
+The medical module handles diagnosis, prescriptions, and lab test records
+using file handling.
+
+## Features
+- Diagnosis record
+- Prescription management
+- Lab test records
+
+## Technologies Used
+- C++
+- File Handling (ofstream)
+
+## How to Run
+1. Compile the program using a C++ compiler
+2. Run the executable
+3. Select Medical options from the menu
+
+## Group Project
+This project is developed as a group project.
+This repository contains the Medical part of the system.
+
+## Author
+[Adeena Butt
+(25011519_048)]
